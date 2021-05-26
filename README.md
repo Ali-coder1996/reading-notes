@@ -1,19 +1,8 @@
-# reading-notes
-# *growth mindset*
+# my name is ali alhjouj
+*I'm from Tafila*
 
-  The *growth mindset* can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
-
-   A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort, A growth mindset is synonymous with a love of learning
- 
- ## To maintaine the growth mindset you must have full-knowledge about three things :
- 1.  Challenges.
- 2.  Obstacles.
- 3.  Effort.
-
-
-## reminders to keep yourself in a growth mindset: ##
-
--remind my self of what i will gain after solving or overcome my challenge.
-
--take a walk to think better about the best approach for solving the challenge.
-![Groth mind](https://www.nexus-education.com/wp-content/uploads/2019/06/continuum.png)
+| Syntax      | Description |
+| ----------- | ----------- |
+|   1   | [Read: 01 - Learning Markdown ](https://canvas.instructure.com/courses/2838222/assignments/22099375)       |
+| 2   | [Read: 02 - Revisions and the Cloud](https://canvas.instructure.com/courses/2838222/assignments/22099373)        |
+| 3   | [ Read: 03 - Structure web pages with HTML](https://canvas.instructure.com/courses/2838222/assignments/22099372)]        |
