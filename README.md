@@ -5,7 +5,7 @@
 
    A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort, A growth mindset is synonymous with a love of learning
  
- ## To maintaine the growth mindset you must have full-knowledge about five things :
+ ## To maintaine the growth mindset you must have full-knowledge about three things :
  1.  Challenges.
  2.  Obstacles.
  3.  Effort.
