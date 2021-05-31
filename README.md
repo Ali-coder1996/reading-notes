@@ -9,5 +9,5 @@
 | 4   | [Read: 04 - Dynamic web pages with JavaScript](Read04)  |
 | 5   | [ Read: 05 - Operators and Loops](Read05)  |
 | 6 | [	Assignment Read: 06 - Programming with JavaScript](Read06)  |
-| 7   | [ Read: 06b - Design web pages with CSS ](Read07)  |
+| 6b   | [ Read: 06b - Design web pages with CSS ](Read06b)  |
 | 8   | [  Read: 07 - Design web pages with CSS](Read08)  |
