@@ -10,4 +10,4 @@
 | 5   | [ Read: 05 - Operators and Loops](Read05)  |
 | 6 | [	Assignment Read: 06 - Programming with JavaScript](Read06)  |
 | 6b   | [ Read: 06b - Design web pages with CSS ](Read06b)  |
-| 8   | [  Read: 07 - Design web pages with CSS](Read08)  |
+
